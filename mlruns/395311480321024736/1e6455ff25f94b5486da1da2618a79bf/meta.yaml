@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Dsirsem2/ML/projetML/mlruns/395311480321024736/1e6455ff25f94b5486da1da2618a79bf/artifacts
+end_time: 1778350189611
+entry_point_name: ''
+experiment_id: '395311480321024736'
+lifecycle_stage: active
+run_id: 1e6455ff25f94b5486da1da2618a79bf
+run_name: Word2Vec + Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778350182285
+status: 3
+tags: []
+user_id: HP

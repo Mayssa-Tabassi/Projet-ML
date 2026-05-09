@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Dsirsem2/ML/projetML/mlruns/395311480321024736/346e06d6fb044562a9b1e2274e065708/artifacts
+end_time: 1778350294110
+entry_point_name: ''
+experiment_id: '395311480321024736'
+lifecycle_stage: active
+run_id: 346e06d6fb044562a9b1e2274e065708
+run_name: CV_TF-IDF + LinearSVC
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778350293941
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Dsirsem2/ML/projetML/mlruns/395311480321024736/a1e3ddf308d049a190b0369be839943c/artifacts
+end_time: 1778350147975
+entry_point_name: ''
+experiment_id: '395311480321024736'
+lifecycle_stage: active
+run_id: a1e3ddf308d049a190b0369be839943c
+run_name: BoW + Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778350140492
+status: 3
+tags: []
+user_id: HP

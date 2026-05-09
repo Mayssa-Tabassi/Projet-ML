@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Dsirsem2/ML/projetML/mlruns/395311480321024736/models/m-30358255547044cd8444580feb4e4f0c/artifacts
+creation_timestamp: 1778350141078
+experiment_id: '395311480321024736'
+last_updated_timestamp: 1778350147929
+model_id: m-30358255547044cd8444580feb4e4f0c
+model_type: null
+name: model
+source_run_id: a1e3ddf308d049a190b0369be839943c
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Dsirsem2/ML/projetML/mlruns/395311480321024736/e8496bed13c14eb58da0b7c2318d06b6/artifacts
+end_time: 1778350130535
+entry_point_name: ''
+experiment_id: '395311480321024736'
+lifecycle_stage: active
+run_id: e8496bed13c14eb58da0b7c2318d06b6
+run_name: BoW + Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778350120877
+status: 3
+tags: []
+user_id: HP

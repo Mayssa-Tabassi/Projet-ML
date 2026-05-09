@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Dsirsem2/ML/projetML/mlruns/395311480321024736/26978dcc4424496faf97a7b33d13d337/artifacts
+end_time: 1778350120709
+entry_point_name: ''
+experiment_id: '395311480321024736'
+lifecycle_stage: active
+run_id: 26978dcc4424496faf97a7b33d13d337
+run_name: BoW + Naive Bayes Multinomial
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778350102195
+status: 3
+tags: []
+user_id: HP

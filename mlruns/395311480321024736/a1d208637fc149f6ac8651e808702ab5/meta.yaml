@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Dsirsem2/ML/projetML/mlruns/395311480321024736/a1d208637fc149f6ac8651e808702ab5/artifacts
+end_time: 1778350181936
+entry_point_name: ''
+experiment_id: '395311480321024736'
+lifecycle_stage: active
+run_id: a1d208637fc149f6ac8651e808702ab5
+run_name: TF-IDF + Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778350174213
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Dsirsem2/ML/projetML/mlruns/395311480321024736/d3c868e69ed140aab4e7d06c0d2f7cc1/artifacts
+end_time: 1778350154515
+entry_point_name: ''
+experiment_id: '395311480321024736'
+lifecycle_stage: active
+run_id: d3c868e69ed140aab4e7d06c0d2f7cc1
+run_name: TF-IDF + Naive Bayes Complement
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778350148046
+status: 3
+tags: []
+user_id: HP
