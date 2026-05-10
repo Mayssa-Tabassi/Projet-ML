@@ -7,6 +7,6 @@ Pondéré alpha=1.0 + LinearSVC,1.0,1.0
 Pondéré alpha=1.0 + LR,1.0,1.0
 Stacking (SVC+LR+RF) → LR,1.0,1.0
 Stacking (SVC+LR) → LR [ColTransformer],1.0,1.0
-Fusion (hstack) + Logistic Regression,0.9975,0.9975
-ColumnTransformer + LR,0.9975,0.9975
+Fusion (hstack) + Logistic Regression,0.999,0.999
+ColumnTransformer + LR,0.999,0.999
 Numérique seul + LR,0.992,0.992
