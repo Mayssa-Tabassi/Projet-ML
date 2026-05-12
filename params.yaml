@@ -1,0 +1,14 @@
+cat > .gitignore << 'EOF'
+data/raw/*.csv
+data/processed/
+models/*.pkl
+models/*.joblib
+mlruns/
+mlflow.db
+__pycache__/
+*.egg-info/
+.env
+venv/
+htmlcov/
+.pytest_cache/
+EOF
