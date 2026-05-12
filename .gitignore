@@ -1,0 +1,11 @@
+# Notebooks outputs
+outputs/
+.ipynb_checkpoints/
+
+# Tests coverage
+htmlcov/
+.pytest_cache/
+*.pyc
+
+# Docker
+*.tar
